@@ -1,0 +1,3 @@
+This file is mostly for Data Analysis, Cleaning the dataset and dealing with the data.
+For example instead of 10-14 in range of tumor size column, it was written 14-Oct and it had to be corrected.
+In the end some Machine Learning Algorithm were done.
